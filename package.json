@@ -1,0 +1,20 @@
+{
+  "name": "allyrich-3d-hero",
+  "version": "1.0.0",
+  "description": "Interactive full-screen 3D hand and phone landing page with custom brand background and opaque OLED screen texture.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "spline",
+    "3d",
+    "webgl",
+    "threejs",
+    "landing-page",
+    "allyrich"
+  ],
+  "author": "Ritik Pal",
+  "license": "MIT"
+}
